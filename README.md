@@ -7,7 +7,7 @@ It demonstrates the use of **pure HTML** to build a structured, semantic, and ac
 https://roadmap.sh/projects/basic-html-website
 
 ## Live Demo
-https://78kabita.github.io/basic-html-website/
+ https://78kabita.github.io/Basic-HTML-Website/
 
 ## Features
 - HTML-only website (no CSS or JavaScript)
